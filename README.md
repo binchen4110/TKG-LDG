@@ -1,9 +1,6 @@
 # (TKG-LDG) Enhancing Temporal Knowledge Graph for Future Event Prediction with Long-Term Dense Graph
 
 Implementation of **TKG-LDG** for the paper: Enhancing Temporal Knowledge Graph for Future Event Prediction with Long-Term Dense Graph
-# Overview
-
-The graph convolution, recurrent updates, and convolutional decoders are adapted from [TiRGN](https://github.com/Liyyy2122/TiRGN), commit `4b74c98b24b200a138e22b7e69f948f0f8d0232a`.
 
 # Code Structure
 
