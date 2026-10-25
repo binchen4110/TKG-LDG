@@ -1,0 +1,16 @@
+{
+  "dataset": "ICEWS18",
+  "long_window": 262,
+  "short_window": 6,
+  "dim": 200,
+  "long_layers": 2,
+  "short_layers": 2,
+  "lr": 0.001,
+  "entity_weight": 0.7,
+  "channels": 50,
+  "kernel_size": 3,
+  "dropout": 0.2,
+  "seed": 2025,
+  "epochs": 40,
+  "patience": 3
+}
