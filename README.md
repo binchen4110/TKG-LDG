@@ -15,12 +15,6 @@ TKG-LDG-release
 │  ├─ WIKI
 │  └─ YAGO
 ├─ configs
-│  ├─ ICEWS18.json
-│  ├─ ICEWS05-15.json
-│  ├─ ICEWS14.json
-│  ├─ GDELT.json
-│  ├─ WIKI.json
-│  └─ YAGO.json
 ├─ tkg_ldg
 │  ├─ __init__.py
 │  ├─ data.py
